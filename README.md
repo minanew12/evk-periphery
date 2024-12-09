@@ -11,12 +11,6 @@ The periphery consists of 4 components that are designed to be used on-chain: IR
 
 ### Perspectives
 
-Directory: [src/Perspectives](src/Perspectives)
-
-[Docs](https://docs.euler.finance/euler-vault-kit-white-paper/#perspectives)
-
-Contracts that encode validity criteria for EVK vaults.
-
 There are two sub-directories:
 
 * `implementation` - Supporting contracts that may be used by multiple perspectives.
